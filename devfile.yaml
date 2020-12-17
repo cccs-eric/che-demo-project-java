@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  name: che-demo-project
+  name: che-demo-project-
 components:
   - type: dockerimage
     image: quay.io/eclipse/che-java11-maven:nightly
